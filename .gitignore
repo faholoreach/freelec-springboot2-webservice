@@ -1,3 +1,6 @@
 .gradle
 .idea
 *.class
+/out
+
+application-oauth.properties
